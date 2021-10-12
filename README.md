@@ -43,7 +43,7 @@ The output obtained somewhat looks like:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
-**@author: [aabir13]**
+**@author: [parvbhargava]**
 
 ---
    [R Download Link]: <https://cran.r-project.org/>
